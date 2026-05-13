@@ -1,0 +1,6 @@
+allowBuilds:
+  '@google/genai': true
+  esbuild: true
+  protobufjs: true
+  sqlite3: true
+minimumReleaseAgeExclude: '@opentelemetry/otlp-exporter-base'
