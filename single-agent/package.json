@@ -1,6 +1,7 @@
 {
   "name": "single-agent",
   "version": "1.0.0",
+  "packageManager": "pnpm@9.1.0",
   "description": "",
   "main": "agent.ts",
   "scripts": {
